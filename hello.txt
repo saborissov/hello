@@ -1,3 +1,2 @@
 hello.txt
-ls
 hello, GIT2
